@@ -1,0 +1,14 @@
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\bin\Debug\net8.0\CronJob.exe
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\bin\Debug\net8.0\CronJob.deps.json
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\bin\Debug\net8.0\CronJob.runtimeconfig.json
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\bin\Debug\net8.0\CronJob.dll
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\bin\Debug\net8.0\CronJob.pdb
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.AssemblyInfo.cs
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.dll
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\refint\CronJob.dll
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.pdb
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\CronJob.genruntimeconfig.cache
+C:\Users\admin\Downloads\react-learning\CronJob\CronJob\obj\Debug\net8.0\ref\CronJob.dll
