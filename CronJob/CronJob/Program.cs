@@ -9,4 +9,3 @@ Console.WriteLine("Hello Swapnil How do you do?");
   }
  
   Console.ReadLine();
-has context menu
